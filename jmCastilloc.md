@@ -36,13 +36,13 @@ To create these aliases, you can add the following lines to your file **.bashrc*
 
 Once you've added these lines, you can use **ll** instead of **ls -la** and **c** instead of **clear**. You can create as many aliases as you need to make your work in the terminal more efficient and productive.
 --------------------------------------------------------------------------------------
-## Thank you for taking the time to view my GitHub profile. I appreciate your interest in my work and hope you found it informative.
+### Thank you for taking the time to view my GitHub profile. I appreciate your interest in my work and hope you found it informative.
 
-## Please feel free to reach out if you have any questions or comments about my projects. I'm always interested in connecting with like-minded developers and collaborating on exciting new ideas.
+### Please feel free to reach out if you have any questions or comments about my projects. I'm always interested in connecting with like-minded developers and collaborating on exciting new ideas.
 
-## Thank you again for your visit and I hope to hear from you soon.
+### *Thank you* again for your visit and I hope to hear from you soon.
 
-### Best regards, José Castillo
+### Best regards, *José Castillo*
 
 > http://localhost:8080/jmCastilloc/index.html
 > npx @11ty/eleventy --server
