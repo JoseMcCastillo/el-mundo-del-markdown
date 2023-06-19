@@ -44,5 +44,5 @@ Once you've added these lines, you can use **ll** instead of **ls -la** and **c*
 
 ### Best regards, *José Castillo*
 
-> http://localhost:8080/jmCastilloc/index.html
-> npx @11ty/eleventy --server
+<!-- http://localhost:8080/jmCastilloc/index.html >
+<npx @11ty/eleventy --server> -->
