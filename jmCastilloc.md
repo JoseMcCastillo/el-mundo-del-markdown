@@ -1,4 +1,4 @@
-# Hi, I'm *José Castillo!* C 👋
+# Hi, I'm *José Castillo!* 👋
 
 I'm a self-taught **programmer** from **Coahuila**, a state in **northern Mexico**. I have a strong passion for **learning** and exploring the exciting world of programming. Currently, I'm focused on expanding my **skills in Python and JavaScript**. Additionally, I'm delving into the ***fundamentals of cybersecurity*** to strengthen my knowledge in the programming field.
 
